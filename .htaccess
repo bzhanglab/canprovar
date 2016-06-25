@@ -1,0 +1,10 @@
+
+AuthType BASIC
+AuthName "Restricted Files"
+allow from all
+#deny from all
+#allow from 160.129.27.26
+#allow from 129.59
+#allow from 10.151.13.41
+#allow from 10.151
+#allow from 128.169.2.161
